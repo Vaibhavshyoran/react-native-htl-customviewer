@@ -1,0 +1,20 @@
+{
+  "name": "react-native-html-customviewer",
+  "version": "1.0.0",
+  "description": "A html view with dynamic height for react-native apps using Webview.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "18.1.0",
+    "react-native": "0.70.2",
+    "react-native-webview": "^11.23.1"
+  },
+  "keywords": [
+    "html",
+    "viewer"
+  ],
+  "author": "Vaibhav Shyoran",
+  "license": "ISC"
+}
